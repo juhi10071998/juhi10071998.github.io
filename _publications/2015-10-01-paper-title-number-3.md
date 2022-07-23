@@ -5,6 +5,6 @@ permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'The Myanmar Economic Monitor (MEM) is published semiannually and is a product of the World Bank’s Myanmar office.'
 date: 2022-01-01
 venue: 'World Bank Group'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://academicpages.github.io/files/world_bank.pdf'
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://academicpages.github.io/files/world_bank.pdf)
