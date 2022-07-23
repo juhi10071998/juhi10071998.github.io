@@ -13,21 +13,27 @@ Prior to joining UCSD, I was a Visiting Associate in the World Well Being Lab at
 
 At Amazon Machine Learning, I was a part of the Last Mile Planning team, where I used deep learning techniques for transit time optimization. I learned how crucial it is to find the sweet spot between accuracy and latency and ensure that the model inputs are readily available in production. My experience in the E-Trading team at JP Morgan exposed me to the scale and working of the ML models in production. My experiences have helped me realize the profound impact technology can have on our lives.
 
+**Life Journey**
 
-Research Interest
-I would love to develop systems that belong in:
+* Sep 22 Excited to begin my Masters at University of California, San Diego
 
-* The problem of recommendation amuses me particularly. I am curious to learn more about how companies like Amazon and Airbnb store data of millions of customers efficiently and provide instant recommendations. I have been exploring the application of Graph Neural networks to understand the various challenges in the domain.
+* Sep 21 Started at University of Pennsylvania as a Visiting Associated. HI Philly!
 
-* Developing scalable computational language models utilizing large-scale user generated text on social media platforms:
-I believe that social media platforms such as Reddit and Twitter, rich ecological sources of human interactions, can offer large volumes of unbiased conversations that can be summarized using NLP. They can help form targeted messaging and mitigation strategies, especially during crises and public health emergencies.
+* Aug 21 Attending [Research School](https://cmmrs.mpi-sws.org/) hosted by the Max Planck Institute, Germany.
+
+* Jan 21 Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!
+
+* Aug 20 Began my Applied Science Internship at Amazon in the Last Mile Science team.
+
+* Aug 20 Attending the Google Research India AI Pre Doctoral Summer School
     
-* Expanding on the above, the rife of hate speech and toxicity is of particular concern today. The language models like BERT and GPT2 have been found to frequently favor identity terms, such as "gay" and "black," that describe a particular group of people. I am currently exploring techniques to mitigate such biases and build fair language models. Additionally, During crisis like COVID 19, the spread of fake news and misinformation have exacerbated the attempts by governments to distribute vaccines to fight the virus.
+* May 18 Summer internship [Indira Gandhi Center for Atomic Research](http://www.igcar.gov.in/) - one of India's largest nuclear reactor establishment.
+    
+* Aug 16 Started my undergraduate life at BITS Pilani majoring in Computer Science and Economics
 
 Affiliations
 
 * [World Well Being Project](http://www.wwbp.org/about.html)
 
 Contact:
-
 Mail: jmittal@ucsd.edu
