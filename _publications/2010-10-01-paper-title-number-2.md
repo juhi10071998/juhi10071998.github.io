@@ -6,7 +6,7 @@ excerpt: 'This paper evaluates two approaches to capturing psychological changes
 date: 2022-07-01
 venue: 'CLPsych Task at North American Chapter of the ACL (Association for Computational Linguistics) [NAACL]'
 paperurl: 'https://aclanthology.org/2022.clpsych-1.25.pdf'
-
+---
 Psychological states unfold dynamically; to understand and measure mental health at scale we
 need to detect and measure these changes from
 sequences of online posts. We evaluate two
