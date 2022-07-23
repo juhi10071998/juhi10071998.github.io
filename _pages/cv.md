@@ -17,16 +17,17 @@ Education
 
 Work experience
 
-Visiting Associate - Researcher, University of Pennsylvania Philadelphia, PA
-World Well-Being Project August 2021 – Present
-• Built computational models using ML and NLP techniques for studying phasal language change and social listening for
-mental health during COVID.
-• Detecting vaccine related misinformation for 1billion+ tweets using transfer learning and graph based BERT models.
-• Lead the technical analysis of the projects in collaborations with World Bank and PennMedicine by handling the
-implementation and presenting findings to stakeholders and quickly picking the domain knowledge.
-• Implemented spark-based mapper to map the user location to respective admin levels and wrote the Twitter and
-Reddit API puller used by the group.
-• Tools used: Spark, Hadoop, Natural Language Processing, Twitter API, Reddit API, Pandas, Keras, SQL
+* **September 2021 - Present:** Visiting Associate - Researcher
+    * **Location:** World Well Being Project, University of Pennsylvania 
+    * **Duties Included:**
+        * Built computational models using ML and NLP techniques for studying phasal language change and social listening for mental health during COVID.
+        * Detecting vaccine related misinformation for 1billion+ tweets using transfer learning and graph based BERT models.
+        * Lead the technical analysis of the projects in collaborations with World Bank and PennMedicine by handling the implementation and presenting findings to stakeholders and quickly picking the domain knowledge.
+        * Implemented spark-based mapper to map the user location to respective admin levels and wrote the Twitter and Reddit API puller used by the group.
+        * Tools used: Spark, Hadoop, Natural Language Processing, Twitter API, Reddit API, Pandas, Keras, SQL
+
+
+
 JP Morgan Chase & Co. Mumbai, India
 Quantitative Researcher Intern January 2021 – July 2021
 • Built a centralized signal engine platform by designing classes to optimally serve the ML signals live in production
