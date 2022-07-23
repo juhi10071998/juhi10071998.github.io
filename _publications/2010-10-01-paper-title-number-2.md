@@ -26,4 +26,4 @@ with mental-health related constructs in prior
 work (including depression, stress, anger and
 anxiety) predicted both mood switches and escalations.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/2022.clpsych-1.25.pdf)
