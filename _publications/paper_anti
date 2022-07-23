@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Analysis on the Prediction of Web Service Anti-patterns Using Source Code Metrics and Ensemble Techniques"
 collection: publications
-permalink: /publication/2021-09-01-paper-title-number-1
+permalink: /publication/paper_anti
 excerpt: 'This paper is about the applications of Machine Learning algorithms like ensemble learning for the anti pattern detection.'
 date: 2021-09-01
 venue: 'International Conference on Computational Science and Its Applications'
