@@ -15,21 +15,21 @@ At Amazon Machine Learning, I was a part of the Last Mile Planning team, where I
 
 **Life Journey**
 
-* Sep 22 Excited to begin my Masters at University of California, San Diego
+* **Sep 22** Excited to begin my Masters at University of California, San Diego
 
-* Sep 21 Started at University of Pennsylvania as a Visiting Associated. HI Philly!
+* **Sep 21** Started at University of Pennsylvania as a Visiting Associated. HI Philly!
 
-* Aug 21 Attending [Research School](https://cmmrs.mpi-sws.org/) hosted by the Max Planck Institute, Germany.
+* **Aug 21** Attending [Research School](https://cmmrs.mpi-sws.org/) hosted by the Max Planck Institute, Germany.
 
-* Jan 21 Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!
+* **Jan 21** Started at JPMorgan as a Quantitative Researcher. Hello Mumbai!
 
-* Aug 20 Began my Applied Science Internship at Amazon in the Last Mile Science team.
+* **Aug 20** Began my Applied Science Internship at Amazon in the Last Mile Science team.
 
-* Aug 20 Attending the Google Research India AI Pre Doctoral Summer School
+* **Aug 20** Attending the Google Research India AI Pre Doctoral Summer School
     
-* May 18 Summer internship [Indira Gandhi Center for Atomic Research](http://www.igcar.gov.in/) - one of India's largest nuclear reactor establishment.
+* **May 18** Summer internship [Indira Gandhi Center for Atomic Research](http://www.igcar.gov.in/) - one of India's largest nuclear reactor establishment.
     
-* Aug 16 Started my undergraduate life at BITS Pilani majoring in Computer Science and Economics
+* **Aug 16** Started my undergraduate life at BITS Pilani majoring in Computer Science and Economics
 
 Affiliations
 
