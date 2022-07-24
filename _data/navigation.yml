@@ -1,7 +1,7 @@
 # main links links
 main:
-  #- title: "Research & Teaching"
-  #  url: /teaching/
+  - title: "Research & Teaching"
+    url: /teaching/
 
   #- title: "talks"
    # url: /talks/    
