@@ -11,11 +11,4 @@ I would love to develop systems that belong in:
     
     * Expanding on the above, the rife of hate speech and toxicity is of particular concern today. The language models like BERT and GPT2 have been found to frequently favor identity terms, such as "gay" and "black," that describe a particular group of people. I am currently exploring techniques to mitigate such biases and build fair language models. Additionally, During crisis like COVID 19, the spread of fake news and misinformation have exacerbated the attempts by governments to distribute vaccines to fight the virus.
 
-Heading 1
-======
 
-Heading 2
-======
-
-Heading 3
-======
